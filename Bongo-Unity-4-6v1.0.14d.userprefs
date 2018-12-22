@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Player\scr_Player.cs">
+    <Files>
+      <File FileName="Assets\Scripts\GameMaster.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Player\scr_Player.cs" Line="147" Column="19" />
+      <File FileName="Assets\Scripts\Menu\Pause Menu\LoadGame.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Menu\Pause Menu\SaveGame.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Inventory\ActionBar.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Player\Health.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GUI\LoadingScreen.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Environment\scr_CheckPoint.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Enemy\EnemyAI.cs" Line="509" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
